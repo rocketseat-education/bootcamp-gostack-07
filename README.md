@@ -33,7 +33,8 @@
 1. Faça um clone desse repositório;
 2. Entre na pasta rodando `cd bootcamp-gostack-07`;
 3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn start` para iniciar o servidor.
+4. Inicie o server rodando `json-server server.json -p 3333 -d 1000`
+5. Rode `yarn start` para iniciar o frontend.
 
 ## 🤔 Como contribuir
 
