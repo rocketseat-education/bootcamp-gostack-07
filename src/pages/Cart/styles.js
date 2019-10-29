@@ -43,6 +43,14 @@ export const ProductTable = styled.table`
     border-bottom: 1px solid #eee;
   }
 
+  #cartEmpty {
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+    padding: 24px 0;
+  }
+
   img {
     height: 100px;
   }
